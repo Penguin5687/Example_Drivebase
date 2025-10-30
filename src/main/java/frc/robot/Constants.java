@@ -21,7 +21,7 @@ public final class Constants {
   }
   public static class candymotor{
     public static final int Candy_Motor = 0;
-    public static final boolean Candy_Motor_Twisted = 0;
+    public static final boolean Candy_Motor_Twisted = false;
 
   }
 
