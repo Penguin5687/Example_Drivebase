@@ -19,6 +19,11 @@ public final class Constants {
     public static final double FORWARD_SPEED = 0.2;
     public static final double TURN_SPEED = 0.2;
   }
+  public static class candymotor{
+    public static final int Candy_Motor = 0;
+    public static final boolean Candy_Motor_Twisted = 0;
+
+  }
 
   public static class MotorConstants {
     public static final int LEFT_MOTOR_1_PORT = 10;
@@ -30,3 +35,5 @@ public final class Constants {
     public static final boolean RIGHT_MOTOR_INVERTED = true;
   }
 }
+
+
